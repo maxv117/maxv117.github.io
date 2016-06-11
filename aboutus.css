@@ -1,0 +1,16 @@
+.whole {
+  background-color: #0f647f;
+  color: gold;}
+.whole {
+  font: italic large Garamond;}
+.whole {
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  text-align: center;
+  }
+  img {
+    width: 50%;
+  }
+  bios {margin: auto;}
